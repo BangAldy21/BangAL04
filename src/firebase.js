@@ -4,12 +4,12 @@ import { getAuth, GoogleAuthProvider } from 'firebase/auth'
 
 // DUMMY CONFIG - ganti dengan config milikmu sebelum produksi
 const firebaseConfig = {
-  apiKey: "AIzaSyDUMMY-KEY-CHANGE-ME",
-  authDomain: "your-project-id.firebaseapp.com",
-  projectId: "your-project-id",
-  storageBucket: "your-project-id.appspot.com",
-  messagingSenderId: "1234567890",
-  appId: "1:1234567890:web:dummyreplace"
+  apiKey: "AIzaSyCWPzULJKa7ApK7psIpr38_iChCZM-_dxQ",
+  authDomain: "bangaldy21-51f0b.firebaseapp.com",
+  projectId: "bangaldy21-51f0b",
+  storageBucket: "bangaldy21-51f0b.firebasestorage.app",
+  messagingSenderId: "528551198877",
+  appId: "1:528551198877:web:3aec52590ebdbd26159474"
 }
 
 const app = initializeApp(firebaseConfig)
